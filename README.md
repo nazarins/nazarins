@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazarin</h1>
 <h3 align="center">Creating Chaos and Order, One Commit at a Time</h3>
 
-<h3 align="left">Connect with me: nazarin.zip@gmail.com</h3>
+<h3 align="left">Connect with me: <a href = "mailto:deb@empirerecords.biz" nazarin.zip@gmail.com </a></h3>
 <p align="left">
 </p>
 
