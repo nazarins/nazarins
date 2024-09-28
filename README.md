@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazarin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Creating Chaos and Order, One Commit at a Time</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
